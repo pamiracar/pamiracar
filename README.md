@@ -1,12 +1,15 @@
 ## Hi, I am Pamir 👋
-
-<!--
-**pamiracar/pamiracar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## About Me
   -> I live in Izmir, Turkey.
   -> I am a student at Izmir Ataturk School
   -> I am learning Flutter.
   -> I can do full-stack mobile, desktop and web apps.
+##My Skills
+  -> sdf
+
+<!--
+**pamiracar/pamiracar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
