@@ -1,23 +1,22 @@
-## Hi, I am Pamir 👋
-## About Me
-  -> I live in Izmir, Turkey.
-  -> I am a student at Izmir Ataturk School
-  -> I am learning Flutter.
-  -> I can do full-stack mobile, desktop and web apps.
-##My Skills
-  -> sdf
+# Hi, I am Pamir 👋
 
-<!--
-**pamiracar/pamiracar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📌 About me
+- 🌍 I live in Izmir, Turkey.
+- 🎓 I am a student at Izmir Ataturk High School.
+- 💻 I am learning Flutter.
+- 🖥️ I can code full-stack mobile, desktop and web apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 My Skills
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" />
+</p>
