@@ -3,7 +3,7 @@
 ---
 
 ## 📌 About me
-- 🌍 I live in Izmir, Turkey.
+- 🏠 I live in Izmir, Turkey.
 - 🎓 I am a student at Izmir Ataturk High School.
 - 💻 I am learning Flutter.
 - 🖥️ I can code full-stack iOS, Android, macOS, Windows and Web apps. (I can code Linux apps but I've never made one before)
