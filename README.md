@@ -5,8 +5,8 @@
 ## 📌 About me
 - 🏠 I live in Izmir, Turkey.
 - 🎓 I am a student at Izmir Ataturk High School.
-- 💻 I am learning Flutter.
-- 🖥️ I can code full-stack iOS, Android, macOS, Windows and Web apps. (I can code Linux apps but I've never made one before)
+- 💻 I am a Jr. Flutter Developer.
+- 🖥️ I can code full-stack iOS and Android apps.
 
 ---
 
@@ -20,6 +20,5 @@
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" alt="Kotlin"/>
   <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="40" alt="Android"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" alt="Windows"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" width="40" alt="iOS, macOS"/>
   
 </p>
