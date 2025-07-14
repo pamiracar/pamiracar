@@ -15,7 +15,7 @@
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" alt="Python"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" alt="Dart"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" width="80" alt="SQLite"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" width="90" alt="SQLite"/>
   <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" width="40" alt="iOS / macOS"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" alt="Flutter"/>
