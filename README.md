@@ -8,7 +8,6 @@
 - 💻 I am a Jr. Flutter Developer.
 - 🖥️ I can code full-stack iOS and Android apps.
 - My Personal Website: [pamiracar.github.io](https://pamiracar.github.io/)
-- 🖥️ I am learning React Native.
 
 ---
 
