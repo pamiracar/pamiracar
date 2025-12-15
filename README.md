@@ -1,6 +1,8 @@
 # Hi, I am Pamir 👋
 
-[![GitHub Repo Sayısı](https://img.shields.io/github/repos-public/pamiracar)](https://github.com/pamiracar?tab=repositories)
+- ![GitHub User's stars](https://img.shields.io/github/stars/pamiracar)
+- ![GitHub followers](https://img.shields.io/github/followers/pamiracar)
+
 
 ---
 
