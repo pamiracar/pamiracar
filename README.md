@@ -1,5 +1,7 @@
 # Hi, I am Pamir 👋
 
+[![GitHub Repo Sayısı](https://img.shields.io/github/repos-public/pamiracar)](https://github.com/pamiracar?tab=repositories)
+
 ---
 
 ## 📌 About me
