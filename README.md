@@ -1,7 +1,9 @@
 # Hi, I am Pamir 👋
 
-- ![GitHub User's stars](https://img.shields.io/github/stars/pamiracar)
-- ![GitHub followers](https://img.shields.io/github/followers/pamiracar)
+![GitHub User's stars](https://img.shields.io/github/stars/pamiracar?style=for-the-badge)
+  ![GitHub followers](https://img.shields.io/github/followers/pamiracar?style=for-the-badge)
+  ![Personal Website](https://img.shields.io/website?url=https%3A%2F%2Fpamiracar.github.io&up_message=online&down_message=website%20is%20currently%20down&down_color=red&style=for-the-badge)
+
 
 
 ---
