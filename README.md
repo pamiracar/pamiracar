@@ -9,10 +9,11 @@
 ---
 
 ## 📌 About me
-- 🏠 I live in Izmir, Turkey.
-- 🎓 I am a student at Izmir Ataturk High School.
-- 💻 I am a Jr. Flutter Developer.
-- 🖥️ I can code full-stack iOS and Android apps.
+- I live in Izmir, Turkey.
+- I am a student at Izmir Ataturk High School.
+- I am a Jr. Flutter Developer.
+- I can code full-stack iOS and Android apps.
+- Currently learning React.js
 - My Personal Website: [pamiracar.github.io](https://pamiracar.github.io/)
 
 ---
@@ -20,6 +21,8 @@
 ## 🛠 My Skills
 
 <p align="left">
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="50" alt="Html5"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" width="50" alt="Css"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50" alt="Python"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="50" alt="Dart"/>
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" width="100" alt="SQLite"/>
