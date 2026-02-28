@@ -11,7 +11,7 @@
 ## 📌 About me
 - I live in Izmir, Turkey.
 - I am a student at Izmir Ataturk High School.
-- I am a Jr. Flutter Developer.
+- I am a developing apps with Flutter.
 - I can code full-stack iOS and Android apps.
 - Currently learning React.js
 - My Personal Website: [pamiracar.github.io](https://pamiracar.github.io/)
