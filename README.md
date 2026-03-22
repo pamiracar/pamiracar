@@ -30,7 +30,6 @@
   <img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" width="50" alt="iOS / macOS"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="50" alt="Flutter"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" alt="Firebase"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="50" alt="Kotlin"/>
   <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="50" alt="Android"/>
   
 </p>
